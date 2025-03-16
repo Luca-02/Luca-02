@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 I am a computer science master's student at the University of Milan<br>📚 Passionate about technology, I primarily focus on software development, data management, and protection<br>👨🏻‍💻 Always curious to learn new things in the tech world<br>🏎️ When I’m not working, you’ll probably find me watching F1 races and analyzing every strategy!</p>
+<p align="left">🎓 I am a master's student in Computer Science at the University of Milan<br>📚 Passionate about technology, I primarily focus on software development, data management, and protection<br>👨🏻‍💻 Always curious to learn new things in the tech world<br>🏎️ When I’m not working, you’ll probably find me watching F1 races and analyzing every strategy!</p>
 
 ###
 
